@@ -1,4 +1,4 @@
-# Introdução ao desenvolvimento web com html e css - Domestika
+# Introducao ao desenvolvimento web com html e css - Domestika
 
 ![preview mobile](./Github/mobile.png)
 
