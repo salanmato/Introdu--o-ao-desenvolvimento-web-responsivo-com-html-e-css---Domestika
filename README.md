@@ -5,7 +5,7 @@ Projeto final do curso Introdução ao desenvolvimento web com html e css da Dom
 [Link do curso](https://www.domestika.org/pt/courses/74-introducao-ao-desenvolvimento-de-web-responsive-com-html-e-css)
 
 
-[Acesse aqui](https://salanmato.github.io/Introducao-ao-desenvolvimento-web-responsivo-com-html-e-css---Domestika/)
+[Página funcionando](https://salanmato.github.io/Introducao-ao-desenvolvimento-web-responsivo-com-html-e-css---Domestika/)
 
 ## Tecnologias
 - HTML
